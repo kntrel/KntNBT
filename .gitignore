@@ -76,6 +76,7 @@ local.properties
 
 # IDEA folder
 .idea/
+.vscode/
 
 # .iml files
 *.iml
@@ -87,3 +88,9 @@ doc/
 out/
 
 *.patch
+
+
+target/
+*.class
+
+temp.md
